@@ -17,6 +17,10 @@
 
 Helping with reports for CTtransit, this project involves creating detailed analyses using Power BI to evaluate and improve bus service operations. The primary goals are to assess and optimize dwell times at bus stops, enhance on-time performance (OTP) by refining route timepoints, and explore dynamic discounting strategies to boost ridership during off-peak hours. By leveraging data-driven insights, the project aims to enhance overall service efficiency, reliability, and customer satisfaction for CTtransit.
 
+
+![Dashboard](https://github.com/Venu-Jakkula/My_Projects/assets/171456105/4c353071-aca6-447e-857c-7440de8d8d5a)
+
+
 ### Data Source
 
 National Transit Database: The primary data for this analysis is used from the "https://www.transit.dot.gov/ntd"
